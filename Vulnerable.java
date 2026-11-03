@@ -6,3 +6,4 @@ public class Vulnerable {
 ps.setString(1, name);
 return ps.executeQuery();
 }
+}
